@@ -1,0 +1,21 @@
+{
+  "name": "fifth",
+  "version": "1.0.0",
+  "description": "next mobx now",
+  "scripts": {
+    "start": "next",
+    "test": "next test"
+  },
+  "author": "phtn458",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^3.1.16",
+    "mobx-react": "^4.2.2",
+    "next": "^2.4.6",
+    "now": "^7.1.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-particles-js": "^1.5.0"
+  }
+}
