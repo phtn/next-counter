@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "next mobx now",
   "scripts": {
-    "start": "next",
-    "test": "next test",
+    "dev": "next",
+    "start": "next start -p $PORT",
     "build": "next build",
     "heroku-postbuild": "npm run build"
   },
