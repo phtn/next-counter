@@ -34,10 +34,15 @@ exports.default = function (props) {
       fileName: _jsxFileName,
       lineNumber: 7
     }
-  }), _react2.default.createElement("style", {
+  }), _react2.default.createElement("title", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
+    }
+  }, "counter - Next MobX"), _react2.default.createElement("style", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
     }
   }, "\n        body {\n          overflow: hidden;\n          background-color: #ffefd5;\n          font-family: Source Code Pro, monospace;\n          font-weight: 200;\n        }\n      "));
 };
