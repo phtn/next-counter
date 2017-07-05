@@ -5,6 +5,7 @@
   "scripts": {
     "start": "next",
     "test": "next test",
+    "build": "next build",
     "heroku-postbuild": "npm run build"
   },
   "author": "phtn458",
