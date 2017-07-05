@@ -4,7 +4,8 @@
   "description": "next mobx now",
   "scripts": {
     "start": "next",
-    "test": "next test"
+    "test": "next test",
+    "heroku-postbuild": "npm run build"
   },
   "author": "phtn458",
   "license": "ISC",
