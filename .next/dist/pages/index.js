@@ -54,7 +54,7 @@ var Colors = function Colors() {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        color: '#2ad2c9',
+        color: 'tomato',
         height: '90vh',
         fontSize: _this.variance
       };

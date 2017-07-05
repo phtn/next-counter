@@ -22,14 +22,18 @@ exports.default = function (props) {
       fileName: _jsxFileName,
       lineNumber: 4
     }
-  }, _react2.default.createElement("link", { href: "https://fonts.googleapis.com/css?family=Source+Code+Pro", rel: "stylesheet", __source: {
+  }, _react2.default.createElement("meta", { name: "theme-color", content: "#222222", __source: {
       fileName: _jsxFileName,
       lineNumber: 5
+    }
+  }), _react2.default.createElement("link", { href: "https://fonts.googleapis.com/css?family=Source+Code+Pro:200", rel: "stylesheet", __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
     }
   }), _react2.default.createElement("style", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
+      lineNumber: 7
     }
-  }, "\n        body {\n          overflow: hidden;\n          background-color: #222;\n          font-family: Source Code Pro, monospace;\n        }\n      "));
+  }, "\n        body {\n          overflow: hidden;\n          background-color: #ffefd5;\n          font-family: Source Code Pro, monospace;\n          font-weight: 200;\n        }\n      "));
 };
